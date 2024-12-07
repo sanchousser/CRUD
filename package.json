@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build --base=/crud/",
-    "server": "json-server --watch db.json -p 4040"
+    "server": "json-server --watch db.json"
   },
   "devDependencies": {
     "glob": "^11.0.0",
